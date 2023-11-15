@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/cet6.png</file>
+        <file>images/a.png</file>
+        <file>images/b.png</file>
+        <file>images/c.png</file>
+        <file>images/d.png</file>
+        <file>images/e.png</file>
+        <file>images/f.png</file>
+        <file>images/g.png</file>
+        <file>images/h.png</file>
+        <file>images/i.png</file>
+        <file>images/j.png</file>
+        <file>images/k.png</file>
+        <file>images/l.png</file>
+        <file>images/m.png</file>
+        <file>images/n.png</file>
+        <file>images/o.png</file>
+        <file>images/p.png</file>
+        <file>images/q.png</file>
+        <file>images/r.png</file>
+        <file>images/s.png</file>
+        <file>images/t.png</file>
+        <file>images/u.png</file>
+        <file>images/v.png</file>
+        <file>images/w.png</file>
+        <file>images/x.png</file>
+        <file>images/y.png</file>
+        <file>images/z.png</file>
+        <file>images/cet4.png</file>
+    </qresource>
+</RCC>
