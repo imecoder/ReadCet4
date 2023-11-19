@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>740</width>
+    <height>728</height>
+   </rect>
+  </property>
+  <property name="font">
+   <font>
+    <family>Fira Code Retina</family>
+    <pointsize>12</pointsize>
+   </font>
+  </property>
+  <property name="contextMenuPolicy">
+   <enum>Qt::NoContextMenu</enum>
+  </property>
+  <property name="windowTitle">
+   <string>Cet4单词朗读记忆</string>
+  </property>
+  <property name="windowIcon">
+   <iconset resource="resource.qrc">
+    <normaloff>:/images/cet4.png</normaloff>:/images/cet4.png</iconset>
+  </property>
+  <property name="layoutDirection">
+   <enum>Qt::LeftToRight</enum>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: rgb(233, 241, 241);</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QVBoxLayout" name="verticalLayout">
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout_2">
+      <item>
+       <widget class="QComboBox" name="boxLetter">
+        <property name="minimumSize">
+         <size>
+          <width>139</width>
+          <height>40</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>139</width>
+          <height>40</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>宋体</family>
+          <pointsize>12</pointsize>
+         </font>
+        </property>
+        <item>
+         <property name="text">
+          <string>a</string>
+         </property>
+         <property name="icon">
+          <iconset resource="resource.qrc">
+           <normaloff>:/images/a.png</normaloff>:/images/a.png</iconset>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>b</string>
+         </property>
+         <property name="icon">
+          <iconset resource="resource.qrc">
+           <normaloff>:/images/b.png</normaloff>:/images/b.png</iconset>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>c</string>
+         </property>
+         <property name="icon">
+          <iconset resource="resource.qrc">
+           <normaloff>:/images/c.png</normaloff>:/images/c.png</iconset>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>d</string>
+         </property>
+         <property name="icon">
+          <iconset resource="resource.qrc">
+           <normaloff>:/images/d.png</normaloff>:/images/d.png</iconset>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>e</string>
+         </property>
+         <property name="icon">
+          <iconset resource="resource.qrc">
+           <normaloff>:/images/e.png</normaloff>:/images/e.png</iconset>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>f</string>
+         </property>
+         <property name="icon">
+          <iconset resource="resource.qrc">
+           <normaloff>:/images/f.png</normaloff>:/images/f.png</iconset>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>g</string>
+         </property>
+         <property name="icon">
+          <iconset resource="resource.qrc">
+           <normaloff>:/images/g.png</normaloff>:/images/g.png</iconset>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>h</string>
+         </property>
+         <property name="icon">
+          <iconset resource="resource.qrc">
+           <normaloff>:/images/h.png</normaloff>:/images/h.png</iconset>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>i</string>
+         </property>
+         <property name="icon">
+          <iconset resource="resource.qrc">
+           <normaloff>:/images/i.png</normaloff>:/images/i.png</iconset>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>j</string>
+         </property>
+         <property name="icon">
+          <iconset resource="resource.qrc">
+           <normaloff>:/images/j.png</normaloff>:/images/j.png</iconset>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>k</string>
+         </property>
+         <property name="icon">
+          <iconset resource="resource.qrc">
+           <normaloff>:/images/k.png</normaloff>:/images/k.png</iconset>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>l</string>
+         </property>
+         <property name="icon">
+          <iconset resource="resource.qrc">
+           <normaloff>:/images/l.png</normaloff>:/images/l.png</iconset>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>m</string>
+         </property>
+         <property name="icon">
+          <iconset resource="resource.qrc">
+           <normaloff>:/images/m.png</normaloff>:/images/m.png</iconset>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>n</string>
+         </property>
+         <property name="icon">
+          <iconset resource="resource.qrc">
+           <normaloff>:/images/n.png</normaloff>:/images/n.png</iconset>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>o</string>
+         </property>
+         <property name="icon">
+          <iconset resource="resource.qrc">
+           <normaloff>:/images/o.png</normaloff>:/images/o.png</iconset>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>p</string>
+         </property>
+         <property name="icon">
+          <iconset resource="resource.qrc">
+           <normaloff>:/images/p.png</normaloff>:/images/p.png</iconset>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>q</string>
+         </property>
+         <property name="icon">
+          <iconset resource="resource.qrc">
+           <normaloff>:/images/q.png</normaloff>:/images/q.png</iconset>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>r</string>
+         </property>
+         <property name="icon">
+          <iconset resource="resource.qrc">
+           <normaloff>:/images/r.png</normaloff>:/images/r.png</iconset>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>s</string>
+         </property>
+         <property name="icon">
+          <iconset resource="resource.qrc">
+           <normaloff>:/images/s.png</normaloff>:/images/s.png</iconset>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>t</string>
+         </property>
+         <property name="icon">
+          <iconset resource="resource.qrc">
+           <normaloff>:/images/t.png</normaloff>:/images/t.png</iconset>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>u</string>
+         </property>
+         <property name="icon">
+          <iconset resource="resource.qrc">
+           <normaloff>:/images/u.png</normaloff>:/images/u.png</iconset>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>v</string>
+         </property>
+         <property name="icon">
+          <iconset resource="resource.qrc">
+           <normaloff>:/images/v.png</normaloff>:/images/v.png</iconset>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>w</string>
+         </property>
+         <property name="icon">
+          <iconset resource="resource.qrc">
+           <normaloff>:/images/w.png</normaloff>:/images/w.png</iconset>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>x</string>
+         </property>
+         <property name="icon">
+          <iconset resource="resource.qrc">
+           <normaloff>:/images/x.png</normaloff>:/images/x.png</iconset>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>y</string>
+         </property>
+         <property name="icon">
+          <iconset resource="resource.qrc">
+           <normaloff>:/images/y.png</normaloff>:/images/y.png</iconset>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>z</string>
+         </property>
+         <property name="icon">
+          <iconset resource="resource.qrc">
+           <normaloff>:/images/z.png</normaloff>:/images/z.png</iconset>
+         </property>
+        </item>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="btnCtrl">
+        <property name="minimumSize">
+         <size>
+          <width>80</width>
+          <height>40</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>80</width>
+          <height>40</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>宋体</family>
+          <pointsize>12</pointsize>
+         </font>
+        </property>
+        <property name="text">
+         <string>开始</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="btnStop">
+        <property name="minimumSize">
+         <size>
+          <width>80</width>
+          <height>40</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>80</width>
+          <height>40</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>宋体</family>
+          <pointsize>12</pointsize>
+         </font>
+        </property>
+        <property name="text">
+         <string>停止</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <spacer name="horizontalSpacer_2">
+        <property name="orientation">
+         <enum>Qt::Horizontal</enum>
+        </property>
+        <property name="sizeHint" stdset="0">
+         <size>
+          <width>40</width>
+          <height>20</height>
+         </size>
+        </property>
+       </spacer>
+      </item>
+      <item>
+       <widget class="QPushButton" name="btnRestore">
+        <property name="minimumSize">
+         <size>
+          <width>80</width>
+          <height>40</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>80</width>
+          <height>40</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>宋体</family>
+          <pointsize>12</pointsize>
+         </font>
+        </property>
+        <property name="text">
+         <string>恢复</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <widget class="QLineEdit" name="lineEditWord">
+      <property name="enabled">
+       <bool>true</bool>
+      </property>
+      <property name="font">
+       <font>
+        <family>Arial</family>
+        <pointsize>72</pointsize>
+       </font>
+      </property>
+      <property name="readOnly">
+       <bool>true</bool>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLabel" name="labelMean">
+      <property name="font">
+       <font>
+        <family>Fira Code Retina</family>
+        <pointsize>36</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QListView" name="listView">
+      <property name="font">
+       <font>
+        <family>Fira Code Retina</family>
+        <pointsize>14</pointsize>
+       </font>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>740</width>
+     <height>23</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources>
+  <include location="resource.qrc"/>
+ </resources>
+ <connections/>
+</ui>
