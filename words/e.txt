@@ -1,197 +1,118 @@
-each pron.å„ï¼Œå„è‡ª a.å„
-eager a.æ¸´æœ›çš„ï¼Œçƒ­åˆ‡çš„
-eagle n.é¹°
-ear n.è€³æœµï¼›å¬åŠ›ï¼Œå¬è§‰
-early ad.æ—© a.æ—©çš„ï¼Œæ—©æœŸçš„
-earn vt.èµšå¾—ï¼ŒæŒ£å¾—ï¼›è·å¾—
-earnest a.è®¤çœŸçš„ï¼Œè¯šæ³çš„
-earth n.åœ°çƒï¼›é™†åœ°ï¼Œåœ°é¢
-earthquake n.åœ°éœ‡ï¼›å¤§éœ‡è¡
-ease n.å®¹æ˜“ï¼Œèˆ’é€‚ vt.ç¼“å’Œ
-east n.ä¸œï¼›ä¸œéƒ¨ ad.åœ¨ä¸œæ–¹
-eastern a.ä¸œæ–¹çš„ï¼›æœä¸œçš„
-easy a.å®¹æ˜“çš„ï¼›å®‰é€¸çš„
-eat vt.åƒï¼Œå– vi.åƒé¥­
-echo n.å›å£°ï¼Œåå“ vi.é‡å¤
-economic a.ç»æµçš„ï¼Œç»æµå­¦çš„
-economical a.èŠ‚çº¦çš„ï¼›ç»æµå­¦çš„
-economy n.ç»æµï¼›èŠ‚çº¦ï¼ŒèŠ‚çœ
-edge n.è¾¹ç¼˜ï¼Œè¾¹ï¼›åˆ€å£
-edition n.ç‰ˆï¼Œç‰ˆæœ¬ï¼Œç‰ˆæ¬¡
-editor n.ç¼–è¾‘ï¼Œç¼–è€…ï¼Œæ ¡è®¢è€…
-educate vt.æ•™è‚²ï¼›åŸ¹å…»ï¼›è®­ç»ƒ
-education n.æ•™è‚²ï¼›è®­å¯¼ï¼›æ•™è‚²å­¦
-effect n.ç»“æœï¼›æ•ˆæœï¼Œæ•ˆåŠ›
-effective a.æœ‰æ•ˆçš„ï¼›æœ‰å½±å“çš„
-efficiency n.æ•ˆç‡ï¼›åŠŸæ•ˆï¼Œæ•ˆèƒ½
-efficient a.æ•ˆç‡é«˜çš„ï¼Œæœ‰èƒ½åŠ›çš„
-effort n.åŠªåŠ›ï¼›åŠªåŠ›çš„æˆæœ
-egg n.è›‹ï¼Œé¸¡è›‹ï¼Œåµ
-eight num.å…«ï¼Œå…«ä¸ªï¼Œç¬¬å…«
-eighteen num.åå…«ï¼Œåå…«ä¸ª
-eighth num.ç¬¬å…« n.å…«åˆ†ä¹‹ä¸€
-eighty num.å…«åï¼Œå…«åä¸ª
-either pron.(ä¸¤è€…)ä»»ä½•ä¸€ä¸ª
-elaborate a.å¤æ‚çš„ï¼›ç²¾å¿ƒåˆ¶ä½œçš„
-elastic n.æ¾ç´§å¸¦ a.æœ‰å¼¹æ€§çš„
-elder a.å¹´é¾„è¾ƒå¤§çš„ n.é•¿è€…
-elect vt.é€‰ä¸¾ï¼Œæ¨é€‰ï¼›é€‰æ‹©
-election n.é€‰ä¸¾ï¼Œé€‰æ‹©æƒï¼›å½“é€‰
-electric a.ç”µçš„ï¼Œç”µåŠ¨çš„
-electrical a.ç”µçš„ï¼Œç”µæ°”ç§‘å­¦çš„
-electricity n.ç”µï¼Œç”µå­¦ï¼›ç”µæµ
-electron n.ç”µå­
-electronic a.ç”µå­çš„
-element n.æˆåˆ†ï¼›è¦ç´ ï¼›å…ƒç´ 
-elementary a.åŸºæœ¬çš„ï¼›åˆçº§çš„
-elephant n.è±¡
-elevator n.ç”µæ¢¯ï¼›å‡é™æœº
-eleven num.åä¸€ï¼Œåä¸€ä¸ª
-eliminate vt.æ¶ˆç­ï¼Œæ¶ˆé™¤ï¼Œæ’é™¤
-else ad.å…¶å®ƒï¼Œå¦å¤– a.åˆ«çš„
-elsewhere ad.åœ¨åˆ«å¤„ï¼Œå‘åˆ«å¤„
-embarrass vt.ä½¿çª˜è¿«ï¼Œä½¿ä¸ºéš¾
-embrace vt.æ‹¥æŠ±ï¼›åŒ…æ‹¬ï¼›åŒ…å›´
-emerge vi.å‡ºç°ï¼Œæ¶Œç°ï¼›å†’å‡º
-emergency n.ç´§æ€¥æƒ…å†µï¼Œçªç„¶äº‹ä»¶
-emit vt.æ•£å‘ï¼›å‘å°„ï¼›å‘è¡¨
-emotion n.æƒ…æ„Ÿï¼Œæ„Ÿæƒ…ï¼›æ¿€åŠ¨
-emotional a.æ„Ÿæƒ…çš„ï¼Œæƒ…ç»ªçš„
-emperor n.çš‡å¸
-emphasis n.å¼ºè°ƒï¼Œé‡ç‚¹ï¼Œé‡è¦æ€§
-emphasize vt.å¼ºè°ƒï¼Œç€é‡
-empire n.å¸å›½
-employ vi.é›‡ç”¨ï¼›ç”¨ï¼›ä½¿å¿™äº
-employee n.å—é›‡è€…ï¼Œé›‡å‘˜ï¼Œé›‡å·¥
-employer n.é›‡ä½£è€…ï¼Œé›‡ä¸»
-employment n.å·¥ä¸šï¼›é›‡ç”¨ï¼›ä½¿ç”¨
-empty a.ç©ºçš„ï¼›ç©ºæ´çš„
-enable vt.ä½¿èƒ½å¤Ÿï¼Œä½¿å¯èƒ½
-enclose vt.å›´ä½ï¼Œåœˆèµ·ï¼›é™„ä¸Š
-encounter vt.é­é‡ï¼Œé‡åˆ° n.é­é‡
-encourage vt.é¼“åŠ±ï¼Œæ”¯æŒï¼ŒåŠ©é•¿
-end n.æœ«ç«¯ï¼›ç›®æ ‡ vt.ç»“æŸ
-ending n.ç»“å°¾ï¼Œç»“å±€ï¼›æ­»äº¡
-endless a.æ— æ­¢å¢ƒçš„
-endure vt.å¿å—ï¼›å®¹å¿
-enemy n.æ•Œäººï¼›ä»‡æ•Œï¼›æ•Œå…µ
-energy n.æ´»åŠ›ï¼›ç²¾åŠ›ï¼›èƒ½
-enforce vt.å®æ–½ï¼Œæ‰§è¡Œï¼›å¼ºåˆ¶
-engage vt.ä½¿ä»äº‹äºï¼›è˜ç”¨
-engine n. å‘åŠ¨æœºï¼Œå¼•æ“ï¼›æœºè½¦
-engineer n.å·¥ç¨‹å¸ˆï¼ŒæŠ€å¸ˆ
-engineering n.å·¥ç¨‹ï¼Œå·¥ç¨‹å­¦
-enlarge vt.æ‰©å¤§ï¼Œæ‰©å±•ï¼›æ”¾å¤§
-enormous a.å·¨å¤§çš„ï¼Œåºå¤§çš„
-enough a.è¶³å¤Ÿçš„ ad.è¶³å¤Ÿåœ°
-enquire vi.vt. è¯¢é—®
-enquiry n. è¯¢é—®
-ensure vt.ä¿è¯ï¼›ä¿æŠ¤ï¼›èµ‹äºˆ
-entertain vt.ä½¿æ¬¢ä¹ï¼›æ‹›å¾…
-enthusiasm n.çƒ­æƒ…ï¼Œçƒ­å¿ƒï¼Œçƒ­å¿±
-entitle vt.ç»™â€¦æƒåˆ©(æˆ–èµ„æ ¼)
-entry n.å…¥å£å¤„ï¼›ç™»è®°ï¼›è¿›å…¥
-environment n.ç¯å¢ƒï¼Œå¤–ç•Œï¼›å›´ç»•
-envy vt.&amp;n.å¦’å¿Œï¼›ç¾¡æ…•
-equal a.ç›¸ç­‰çš„ï¼›å¹³ç­‰çš„
-equality n.ç­‰åŒï¼Œå¹³ç­‰ï¼›ç›¸ç­‰
-equation n.æ–¹ç¨‹(å¼)ï¼›ç­‰å¼
-equip vt.è£…å¤‡ï¼Œé…å¤‡
-equipment n.è£…å¤‡ï¼Œè®¾å¤‡ï¼Œé…å¤‡
-equivalent a.ç›¸ç­‰çš„ï¼›ç­‰é‡çš„
-era n.æ—¶ä»£ï¼Œå¹´ä»£ï¼›çºªå…ƒ
-erect vt.å»ºé€ ï¼›ä½¿ç«–ç«‹
-error n.é”™è¯¯ï¼Œè°¬è¯¯ï¼›å·®é”™
-escape vi.é€ƒè·‘ï¼›é€¸å‡º n.é€ƒè·‘
-especially ad.ç‰¹åˆ«ï¼Œå°¤å…¶ï¼Œæ ¼å¤–
-essay n.çŸ­æ–‡ï¼Œæ•£æ–‡ï¼Œå°å“æ–‡
-essential a.å¿…è¦çš„ï¼Œæœ¬è´¨çš„
-establish vt.å»ºç«‹ï¼Œè®¾ç«‹ï¼›ç¡®ç«‹
-establishment n.å»ºç«‹ï¼Œè®¾ç«‹ï¼Œç¡®ç«‹
-estimate vt.ä¼°è®¡ï¼Œè¯„ä»· n.ä¼°è®¡
-urope n.æ¬§æ´²
-uropean a.æ¬§æ´²çš„ n.æ¬§æ´²äºº
-evaluate vt.è¯„ä»·ï¼Œä¼°â€¦çš„ä»·
-evaporate vt.ä½¿è’¸å‘ vi.è’¸å‘
-eve n.å‰å¤œï¼Œå‰å¤•ï¼Œå‰ä¸€åˆ»
-even ad.ç”šè‡³ï¼›ç”šè‡³æ›´ï¼Œè¿˜
-even a.å‡åŒ€çš„ï¼›å¹³çš„
-evening n.å‚æ™šï¼Œé»„æ˜ï¼Œæ™šä¸Š
-event n.äº‹ä»¶ï¼Œå¤§äº‹ï¼›äº‹å˜
-eventually ad.ç»ˆäºï¼›æœ€å
-ever ad.åœ¨ä»»ä½•æ—¶å€™ï¼›æ›¾ç»
-every a.æ¯ä¸€çš„ï¼›æ¯éš”â€¦çš„
-everybody pron.æ¯äººï¼Œäººäºº
-everyday a.æ¯å¤©çš„ï¼Œæ—¥å¸¸çš„
-everyone pron.æ¯äººï¼Œäººäºº
-everything pron.æ¯ä»¶äº‹ï¼Œäº‹äº‹
-everywhere ad.åˆ°å¤„ï¼Œå¤„å¤„
-evidence n.æ ¹æ®ï¼›è¯æ®ï¼Œè¯äºº
-evident a.æ˜æ˜¾çš„ï¼Œæ˜ç™½çš„
-evil n.é‚ªæ¶ï¼›ç¥¸å®³ a.åçš„
-evolution n.è¿›åŒ–ï¼Œæ¼”åŒ–ï¼›å‘å±•
-evolve vt.ä½¿è¿›åŒ–ï¼›ä½¿å‘å±•
-exact a.ç¡®åˆ‡çš„ï¼›ç²¾ç¡®çš„
-exaggerate vt.&amp;vi.å¤¸å¤§ï¼Œå¤¸å¼ 
-exam n.è€ƒè¯•ï¼›æ£€æŸ¥ï¼Œç»†æŸ¥
-examination n.è€ƒè¯•ï¼›æ£€æŸ¥ï¼Œç»†æŸ¥
-examine vt.æ£€æŸ¥ï¼Œä»”ç»†è§‚å¯Ÿ
-example n.ä¾‹å­ï¼Œå®ä¾‹ï¼›æ¨¡èŒƒ
-exceed vt.è¶…è¿‡ï¼Œèƒœè¿‡ï¼›è¶…å‡º
-exceedingly ad.æç«¯åœ°ï¼Œéå¸¸
-excellent a.ä¼˜ç§€çš„ï¼Œæ°å‡ºçš„
-except prep.é™¤â€¦ä¹‹å¤–
-exception n.ä¾‹å¤–ï¼Œé™¤å¤–
-excess n.è¶…è¶Šï¼›è¿‡é‡ï¼›è¿‡åº¦
-excessive a.è¿‡å¤šçš„ï¼Œæåº¦çš„
-exchange vt.äº¤æ¢ï¼›äº¤æµ n.äº¤æ¢
-excite vt.ä½¿æ¿€åŠ¨ï¼›å¼•èµ·
-exciting a.ä»¤äººå…´å¥‹çš„.
-exclaim vi.å‘¼å–Šï¼›æƒŠå«
-exclude vt.æŠŠâ€¦æ’é™¤åœ¨å¤–
-exclusively ad.ä¸“é—¨åœ°
-excursion n.è¿œè¶³ï¼›çŸ­é€”æ—…è¡Œ
-excuse vt.åŸè°…ï¼›å…é™¤ n.å€Ÿå£
-execute vt.å°†â€¦å¤„æ­»ï¼›å®æ–½
-executive a.æ‰§è¡Œçš„ n.æ‰§è¡Œè€…
-exercise n.é”»ç‚¼ï¼Œè®­ç»ƒ vi.ç»ƒä¹ 
-exert vt.å°½(åŠ›)ï¼Œè¿ç”¨
-exhaust vt.ä½¿ç­‹ç–²åŠ›å°½ï¼›ç”¨å°½
-exhibit vt.æ˜¾ç¤ºï¼›é™ˆåˆ—ï¼Œå±•è§ˆ
-exhibition n.å±•è§ˆï¼Œé™ˆåˆ—ï¼›å±•è§ˆä¼š
-exist vi.å­˜åœ¨ï¼›ç”Ÿå­˜ï¼Œç”Ÿæ´»
-existence n.å­˜åœ¨ï¼Œå®åœ¨ï¼›ç”Ÿå­˜
-exit n.å‡ºå£ï¼›é€€åœº vi.é€€å‡º
-expand vt.æ‰©å¤§ï¼›ä½¿è†¨èƒ€
-expansion n.æ‰©å¤§ï¼Œæ‰©å……ï¼›æ‰©å¼ 
-expect vt.é¢„æ–™ï¼Œé¢„æœŸï¼›ç­‰å¾…
-expectation n.æœŸå¾…ï¼ŒæœŸæœ›ï¼Œé¢„æœŸ
-expense n.èŠ±è´¹ï¼Œæ¶ˆè´¹ï¼›è´¹ç”¨
-expensive a.æ˜‚è´µçš„ï¼ŒèŠ±é’±å¤šçš„
-experience n.ç»éªŒï¼Œæ„Ÿå—ï¼›ç»å†
-experiment n.å®éªŒï¼›è¯•éªŒ
-experimental a.å®éªŒçš„ï¼Œè¯•éªŒçš„
-expert n.ä¸“å®¶ a.ç†Ÿç»ƒçš„
-explain vt.è§£é‡Šï¼›ä¸ºâ€¦è¾©è§£
-explanation n.è§£é‡Šï¼Œè¯´æ˜ï¼›è¾©è§£
-explode vt.ä½¿çˆ†ç‚¸ vi.çˆ†ç‚¸
-explit vt.å‰¥å‰Šï¼›åˆ©ç”¨ï¼›å¼€æ‹“
-explore vt.&amp;vi.æ¢é™©ï¼Œæ¢ç´¢
-explosion n.çˆ†ç‚¸ï¼Œçˆ†å‘ï¼Œç‚¸è£‚
-explosive n.ç‚¸è¯ a.çˆ†ç‚¸çš„
-export vt.è¾“å‡ºï¼Œå‡ºå£ï¼›è¿èµ°
-expose vt.ä½¿æš´éœ²ï¼›æ­éœ²
-exposure n.æš´éœ²ï¼›æ­éœ²ï¼›æ›å…‰
-express vt.è¡¨ç¤º n.å¿«è½¦ï¼Œå¿«é€’
-expression n.è¯å¥ï¼›è¡¨è¾¾ï¼›è¡¨æƒ…
-extend vt.å»¶é•¿ï¼›æ‰©å¤§ï¼›è‡´
-extension n.å»¶é•¿éƒ¨åˆ†ï¼›ä¼¸å±•
-extensive a.å¹¿é˜”çš„ï¼›å¹¿æ³›çš„
-extent n.å¹¿åº¦ï¼›èŒƒå›´ï¼›ç¨‹åº¦
-exterior a.å¤–éƒ¨çš„ï¼›å¯¹å¤–çš„
-external a.å¤–éƒ¨çš„ï¼Œå¤–é¢çš„
-extra a.é¢å¤–çš„ ad.ç‰¹åˆ«åœ°
-extraordinary a.éåŒå¯»å¸¸çš„ï¼Œç‰¹åˆ«çš„
-extreme a.æåº¦çš„ï¼›å°½å¤´çš„
-eye n.çœ¼ç›ï¼›çœ¼åŠ›ï¼›é‰´èµåŠ›
-eyesight n.è§†åŠ›ï¼Œç›®åŠ›
+eager a.¿ÊÍûµÄ£¬ÈÈÇĞµÄ
+earnest a.ÈÏÕæµÄ£¬³Ï¿ÒµÄ
+ease n.ÈİÒ×£¬ÊæÊÊ vt.»ººÍ
+economic a.¾­¼ÃµÄ£¬¾­¼ÃÑ§µÄ
+economical a.½ÚÔ¼µÄ£»¾­¼ÃÑ§µÄ
+economy n.¾­¼Ã£»½ÚÔ¼£¬½ÚÊ¡
+effect n.½á¹û£»Ğ§¹û£¬Ğ§Á¦
+effective a.ÓĞĞ§µÄ£»ÓĞÓ°ÏìµÄ
+efficiency n.Ğ§ÂÊ£»¹¦Ğ§£¬Ğ§ÄÜ
+efficient a.Ğ§ÂÊ¸ßµÄ£¬ÓĞÄÜÁ¦µÄ
+elaborate a.¸´ÔÓµÄ£»¾«ĞÄÖÆ×÷µÄ
+elastic n.ËÉ½ô´ø a.ÓĞµ¯ĞÔµÄ
+elder a.ÄêÁä½Ï´óµÄ n.³¤Õß
+elect vt.Ñ¡¾Ù£¬ÍÆÑ¡£»Ñ¡Ôñ
+election n.Ñ¡¾Ù£¬Ñ¡ÔñÈ¨£»µ±Ñ¡
+electric a.µçµÄ£¬µç¶¯µÄ
+electrical a.µçµÄ£¬µçÆø¿ÆÑ§µÄ
+electricity n.µç£¬µçÑ§£»µçÁ÷
+electron n.µç×Ó
+electronic a.µç×ÓµÄ
+elementary a.»ù±¾µÄ£»³õ¼¶µÄ
+elevator n.µçÌİ£»Éı½µ»ú
+eliminate vt.ÏûÃğ£¬Ïû³ı£¬ÅÅ³ı
+elsewhere ad.ÔÚ±ğ´¦£¬Ïò±ğ´¦
+embarrass vt.Ê¹¾½ÆÈ£¬Ê¹ÎªÄÑ
+embrace vt.Óµ±§£»°üÀ¨£»°üÎ§
+emerge vi.³öÏÖ£¬Ó¿ÏÖ£»Ã°³ö
+emperor n.»ÊµÛ
+emphasis n.Ç¿µ÷£¬ÖØµã£¬ÖØÒªĞÔ
+emphasize vt.Ç¿µ÷£¬×ÅÖØ
+empire n.µÛ¹ú
+employ vi.¹ÍÓÃ£»ÓÃ£»Ê¹Ã¦ÓÚ
+employee n.ÊÜ¹ÍÕß£¬¹ÍÔ±£¬¹Í¹¤
+employer n.¹ÍÓ¶Õß£¬¹ÍÖ÷
+employment n.¹¤Òµ£»¹ÍÓÃ£»Ê¹ÓÃ
+enclose vt.Î§×¡£¬È¦Æğ£»¸½ÉÏ
+encounter vt.ÔâÓö£¬Óöµ½ n.ÔâÓö
+encourage vt.¹ÄÀø£¬Ö§³Ö£¬Öú³¤
+ending n.½áÎ²£¬½á¾Ö£»ËÀÍö
+endless a.ÎŞÖ¹¾³µÄ
+endure vt.ÈÌÊÜ£»ÈİÈÌ
+enemy n.µĞÈË£»³ğµĞ£»µĞ±ø
+energy n.»îÁ¦£»¾«Á¦£»ÄÜ
+engage vt.Ê¹´ÓÊÂÓÚ£»Æ¸ÓÃ
+enlarge vt.À©´ó£¬À©Õ¹£»·Å´ó
+enormous a.¾Ş´óµÄ£¬ÅÓ´óµÄ
+enquire vi.vt. Ñ¯ÎÊ
+enquiry n. Ñ¯ÎÊ
+entertain vt.Ê¹»¶ÀÖ£»ÕĞ´ı
+enthusiasm n.ÈÈÇé£¬ÈÈĞÄ£¬ÈÈ³À
+entitle vt.¸ø¡­È¨Àû(»ò×Ê¸ñ)
+envy vt.&amp;n.¶Ê¼É£»ÏÛÄ½
+equality n.µÈÍ¬£¬Æ½µÈ£»ÏàµÈ
+equation n.·½³Ì(Ê½)£»µÈÊ½
+equivalent a.ÏàµÈµÄ£»µÈÁ¿µÄ
+era n.Ê±´ú£¬Äê´ú£»¼ÍÔª
+erect vt.½¨Ôì£»Ê¹ÊúÁ¢
+error n.´íÎó£¬ÃıÎó£»²î´í
+essay n.¶ÌÎÄ£¬É¢ÎÄ£¬Ğ¡Æ·ÎÄ
+essential a.±ØÒªµÄ£¬±¾ÖÊµÄ
+establish vt.½¨Á¢£¬ÉèÁ¢£»È·Á¢
+establishment n.½¨Á¢£¬ÉèÁ¢£¬È·Á¢
+estimate vt.¹À¼Æ£¬ÆÀ¼Û n.¹À¼Æ
+urope n.Å·ÖŞ
+uropean a.Å·ÖŞµÄ n.Å·ÖŞÈË
+evaluate vt.ÆÀ¼Û£¬¹À¡­µÄ¼Û
+evaporate vt.Ê¹Õô·¢ vi.Õô·¢
+eve n.Ç°Ò¹£¬Ç°Ï¦£¬Ç°Ò»¿Ì
+even a.¾ùÔÈµÄ£»Æ½µÄ
+eventually ad.ÖÕÓÚ£»×îºó
+ever ad.ÔÚÈÎºÎÊ±ºò£»Ôø¾­
+evidence n.¸ù¾İ£»Ö¤¾İ£¬Ö¤ÈË
+evident a.Ã÷ÏÔµÄ£¬Ã÷°×µÄ
+evil n.Ğ°¶ñ£»»öº¦ a.»µµÄ
+evolution n.½ø»¯£¬Ñİ»¯£»·¢Õ¹
+evolve vt.Ê¹½ø»¯£»Ê¹·¢Õ¹
+exact a.È·ÇĞµÄ£»¾«È·µÄ
+exaggerate vt.&amp;vi.¿ä´ó£¬¿äÕÅ
+exceed vt.³¬¹ı£¬Ê¤¹ı£»³¬³ö
+exceedingly ad.¼«¶ËµØ£¬·Ç³£
+excellent a.ÓÅĞãµÄ£¬½Ü³öµÄ
+excess n.³¬Ô½£»¹ıÁ¿£»¹ı¶È
+excessive a.¹ı¶àµÄ£¬¼«¶ÈµÄ
+exclaim vi.ºôº°£»¾ª½Ğ
+exclude vt.°Ñ¡­ÅÅ³ıÔÚÍâ
+exclusively ad.×¨ÃÅµØ
+excursion n.Ô¶×ã£»¶ÌÍ¾ÂÃĞĞ
+excuse vt.Ô­ÁÂ£»Ãâ³ı n.½è¿Ú
+execute vt.½«¡­´¦ËÀ£»ÊµÊ©
+executive a.Ö´ĞĞµÄ n.Ö´ĞĞÕß
+exercise n.¶ÍÁ¶£¬ÑµÁ· vi.Á·Ï°
+exert vt.¾¡(Á¦)£¬ÔËÓÃ
+exhaust vt.Ê¹½îÆ£Á¦¾¡£»ÓÃ¾¡
+exhibit vt.ÏÔÊ¾£»³ÂÁĞ£¬Õ¹ÀÀ
+exhibition n.Õ¹ÀÀ£¬³ÂÁĞ£»Õ¹ÀÀ»á
+existence n.´æÔÚ£¬ÊµÔÚ£»Éú´æ
+expansion n.À©´ó£¬À©³ä£»À©ÕÅ
+expectation n.ÆÚ´ı£¬ÆÚÍû£¬Ô¤ÆÚ
+expense n.»¨·Ñ£¬Ïû·Ñ£»·ÑÓÃ
+experience n.¾­Ñé£¬¸ĞÊÜ£»¾­Àú
+experiment n.ÊµÑé£»ÊÔÑé
+experimental a.ÊµÑéµÄ£¬ÊÔÑéµÄ
+explode vt.Ê¹±¬Õ¨ vi.±¬Õ¨
+explit vt.°şÏ÷£»ÀûÓÃ£»¿ªÍØ
+explosion n.±¬Õ¨£¬±¬·¢£¬Õ¨ÁÑ
+explosive n.Õ¨Ò© a.±¬Õ¨µÄ
+export vt.Êä³ö£¬³ö¿Ú£»ÔË×ß
+expose vt.Ê¹±©Â¶£»½ÒÂ¶
+exposure n.±©Â¶£»½ÒÂ¶£»ÆØ¹â
+express vt.±íÊ¾ n.¿ì³µ£¬¿ìµİ
+expression n.´Ê¾ä£»±í´ï£»±íÇé
+extensive a.¹ãÀ«µÄ£»¹ã·ºµÄ
+extent n.¹ã¶È£»·¶Î§£»³Ì¶È
+exterior a.Íâ²¿µÄ£»¶ÔÍâµÄ
+external a.Íâ²¿µÄ£¬ÍâÃæµÄ
+extraordinary a.·ÇÍ¬Ñ°³£µÄ£¬ÌØ±ğµÄ
+extreme a.¼«¶ÈµÄ£»¾¡Í·µÄ
+eyesight n.ÊÓÁ¦£¬Ä¿Á¦

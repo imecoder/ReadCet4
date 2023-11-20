@@ -1,109 +1,63 @@
-obey vt.é¡ºä» vi.æœä»
-object n.ç‰©ï¼Œç‰©ä½“ï¼›ç›®çš„
-object vi.åå¯¹ï¼›æŠ±åæ„Ÿ
-objection n.åå¯¹ï¼Œå¼‚è®®ï¼›ä¸å–œæ¬¢
-objective a.å®¢è§‚çš„ï¼›æ— åè§çš„
-oblige vt.è¿«ä½¿ï¼›æ–½æ©æƒ äº
-observation n.æ³¨æ„ï¼›è§‚å¯Ÿï¼›è§‚å¯ŸåŠ›
-observe vt.éµå®ˆï¼›çœ‹åˆ°ï¼›è¯´
-observer n.è§‚å¯Ÿå‘˜ï¼Œè§‚æµ‹è€…
-obstacle n.éšœç¢ï¼Œéšœç¢ç‰©ï¼Œå¦¨å®³
-obtain vt.è·å¾—ï¼Œå¾—åˆ°ï¼Œä¹°åˆ°
-obvious a.æ˜æ˜¾çš„ï¼Œæ˜¾è€Œæ˜“è§çš„
-occasion n.åœºåˆï¼Œæ—¶åˆ»ï¼›æ—¶æœº
-occasional a.å¶ç„¶çš„ï¼›ä¸´æ—¶çš„
-occupation n.å é¢†ï¼Œå æ®ï¼›èŒä¸š
-occupy vt.å é¢†ï¼›å ï¼Œå æœ‰
-occur vi.å‘ç”Ÿï¼›å‡ºç°ï¼Œå­˜åœ¨
-occurrence n.å‘ç”Ÿï¼Œå‡ºç°ï¼›äº‹ä»¶
-ocean n.æµ·æ´‹ï¼›æ´‹
-oclock ad.â€¦ç‚¹é’Ÿ
-October n.åæœˆ
-odd a.å¥‡æ•°çš„ï¼›å•åªçš„
-of prep.â€¦çš„ï¼›ç”±äº
-off ad.(ç¦»)å¼€ï¼›(åœ)æ­¢
-offend vt.å†’çŠ¯ vi.çŠ¯è¿‡é”™
-offer vt.æä¾›ï¼›æå‡º n.æä¾›
-office n.åŠå…¬å®¤ï¼›å¤„ï¼Œå±€ï¼Œç¤¾
-officer n.å®˜å‘˜ï¼›å¹²äº‹ï¼›å†›å®˜
-official a.å®˜å‘˜çš„ï¼›å®˜æ–¹çš„
-often ad.ç»å¸¸ï¼Œå¸¸å¸¸
-oh int.å—¬ï¼Œå“¦ï¼Œå”‰å‘€
-oil n.æ²¹ï¼›çŸ³æ²¹ vt.åŠ æ²¹äº
-okay (ç¼©ä½œOK)a.&amp;ad.å¯¹ï¼Œå¥½
-old a.è€çš„ï¼›â€¦å²çš„
-omit vt.çœç•¥ï¼Œçœå»ï¼›é—æ¼
-on prep.åœ¨â€¦ä¸Šï¼›åœ¨â€¦æ—
-once ad.ä¸€æ¬¡ï¼›æ›¾ç» n.ä¸€æ¬¡
-one num.ä¸€ pron.ä¸€ä¸ªäºº
-oneself pron.è‡ªå·±ï¼›äº²è‡ª
-onion n.æ´‹è‘±ï¼Œæ´‹è‘±å¤´
-only ad.åªï¼Œä»…ä»… a.å”¯ä¸€çš„
-onto prep.åˆ°â€¦ä¸Š
-open a.å¼€çš„ï¼›å¼€æ”¾çš„ vt.å¼€
-opening a.å¼€å§‹çš„ n.å¼€å§‹
-opera n.æ­Œå‰§
-operate vi.æ“ä½œï¼›æ–½è¡Œæ‰‹æœ¯
-operation n.æ“ä½œï¼›æ‰‹æœ¯ï¼›è¿ç®—
-operational a.æ“ä½œä¸Šçš„ï¼›å¯ä½¿ç”¨çš„
-operator n.æ“ä½œäººå‘˜ï¼Œæ¥çº¿å‘˜
-opinion n.æ„è§ï¼Œçœ‹æ³•ï¼Œä¸»å¼ 
-opponent n.å¯¹æ‰‹ï¼Œæ•Œæ‰‹ï¼›å¯¹æŠ—è€…
-opportunity n.æœºä¼šï¼Œè‰¯æœº
-oppose vt.åå¯¹ï¼›åæŠ—
-opposite a.å¯¹é¢çš„ n.å¯¹ç«‹ç‰©
-optical a.çœ¼çš„ï¼›å…‰å­¦çš„
-optimistic a.ä¹è§‚çš„ï¼›ä¹è§‚ä¸»ä¹‰çš„
-optional a.å¯ä»¥ä»»æ„é€‰æ‹©çš„.
-or conj.æˆ–ï¼Œæˆ–è€…ï¼›å³
-oral a.å£å¤´çš„ï¼›å£çš„
-orange n.æ©™(æ ‘)ï¼›æŸ‘(æ ‘)
-orbit n.è¿è¡Œè½¨é“ vt.ç¯ç»•
-orchestra n.ç®¡å¼¦ä¹é˜Ÿ
-order n.æ¬¡åºï¼›æ•´é½ vt.å‘½ä»¤
-orderly a.æ•´æ´çš„ï¼›æœ‰ç§©åºçš„
-ordinary a.å¹³å¸¸çš„ï¼›å¹³å‡¡çš„
-ore n.çŸ¿ï¼ŒçŸ¿çŸ³ï¼ŒçŸ¿ç ‚
-organ n.å™¨å®˜ï¼›æœºæ„ï¼›ç®¡é£ç´
-organic a.æœ‰æœºä½“çš„ï¼›å™¨å®˜çš„
-organism n.ç”Ÿç‰©ä½“ï¼›æœ‰æœºä½“
-organization n.ç»„ç»‡ï¼›å›¢ä½“ï¼Œæœºæ„
-organize vt.ç»„ç»‡ï¼Œç¼–ç»„
-origin n.èµ·æºï¼Œç”±æ¥ï¼›å‡ºèº«
-original a.æœ€åˆçš„ï¼›æ–°é¢–çš„
-other a.å¦å¤–çš„ï¼›å…¶ä½™çš„
-otherwise ad.å¦å¤–ï¼›è¦ä¸ç„¶
-ought v.aux.åº”å½“ï¼Œåº”è¯¥
-ounce n.ç›å¸ï¼Œè‹±ä¸¤
-our pron.æˆ‘ä»¬çš„
-ours pron.æˆ‘ä»¬çš„
-ourselves pron.æˆ‘ä»¬è‡ªå·±
-out ad.å‡ºï¼Œåœ¨å¤–ï¼›ç°å‡ºæ¥
-outcome n.ç»“æœï¼Œåæœï¼Œæˆæœ
-outdoors ad.åœ¨æˆ·å¤–ï¼Œåœ¨é‡å¤–
-outer a.å¤–éƒ¨çš„ï¼Œå¤–é¢çš„
-outlet n.å‡ºå£ï¼Œå‡ºè·¯ï¼›æ’é£
-outline n.è½®å»“ï¼›ç•¥å›¾ï¼›å¤§çº²
-outlook n.è§‚ç‚¹ï¼Œçœ‹æ³•ï¼›å±•æœ›
-output n.äº§é‡ï¼›è¾“å‡ºé‡ï¼›è¾“å‡º
-outset n.å¼€å§‹ï¼Œå¼€ç«¯
-outside n.å¤–éƒ¨ï¼›å¤–è¡¨a.å¤–éƒ¨çš„
-outstanding a.çªå‡ºçš„ï¼Œæ°å‡ºçš„
-outward a.å¤–é¢çš„ï¼›å‘å¤–çš„
-oven n.ç‚‰ï¼Œç¶ï¼›çƒ˜ç®±
-over prep.åœ¨â€¦ä¸Šæ–¹ï¼›è¶…è¿‡
-overall n.å·¥è£…è£¤ a.å…¨é¢çš„
-overcoat n.å¤–è¡£ï¼Œå¤§è¡£
-overcome vt.æˆ˜èƒœï¼Œå…‹æœ
-overhead a.åœ¨å¤´é¡¶ä¸Šçš„ï¼›æ¶ç©ºçš„
-overlook vt.çœºæœ›ï¼›çœ‹æ¼ï¼›æ”¾ä»»
-overnight ad.ä¸€å¤œï¼›çªç„¶
-overseas ad.æµ·å¤– a.åœ¨æµ·å¤–çš„
-overtake vt.è¿½ä¸Šï¼Œèµ¶ä¸Šï¼›å‹å€’
-owe vt.æ¬ ï¼›åº”æŠŠâ€¦å½’åŠŸäº
-owl n.çŒ«å¤´é¹°ï¼Œæ­
-own a.è‡ªå·±çš„ vt.æœ‰ï¼Œæ‹¥æœ‰
-owner n.ç‰©ä¸»ï¼Œæ‰€æœ‰äºº
-ownership n.æ‰€æœ‰(æƒ)ï¼Œæ‰€æœ‰åˆ¶
-ox n.ç‰›ï¼›å…¬ç‰›ï¼Œé˜‰ç‰›
-oxygen n. æ°§æ°”
+ovember n.Ê®Ò»ÔÂ
+obey vt.Ë³´Ó vi.·ş´Ó
+objection n.·´¶Ô,ÒìÒé;²»Ï²»¶
+objective a.¿Í¹ÛµÄ;ÎŞÆ«¼ûµÄ
+oblige vt.ÆÈÊ¹;Ê©¶÷»İÓÚ
+observation n.×¢Òâ;¹Û²ì;¹Û²ìÁ¦
+observer n.¹Û²ìÔ±,¹Û²âÕß
+obstacle n.ÕÏ°­,ÕÏ°­Îï,·Áº¦
+occasion n.³¡ºÏ,Ê±¿Ì;Ê±»ú
+occasional a.Å¼È»µÄ;ÁÙÊ±µÄ
+occupation n.Õ¼Áì,Õ¼¾İ;Ö°Òµ
+occur vi.·¢Éú;³öÏÖ,´æÔÚ
+occurrence n.·¢Éú,³öÏÖ;ÊÂ¼ş
+oclock ad.¡­µãÖÓ
+odd a.ÆæÊıµÄ;µ¥Ö»µÄ
+offend vt.Ã°·¸ vi.·¸¹ı´í
+offer vt.Ìá¹©;Ìá³ö n.Ìá¹©
+officer n.¹ÙÔ±;¸ÉÊÂ;¾ü¹Ù
+official a.¹ÙÔ±µÄ;¹Ù·½µÄ
+omit vt.Ê¡ÂÔ,Ê¡È¥;ÒÅÂ©
+onion n.Ñó´Ğ,Ñó´ĞÍ·
+opera n.¸è¾ç
+operational a.²Ù×÷ÉÏµÄ;¿ÉÊ¹ÓÃµÄ
+operator n.²Ù×÷ÈËÔ±,½ÓÏßÔ±
+opponent n.¶ÔÊÖ,µĞÊÖ;¶Ô¿¹Õß
+opportunity n.»ú»á,Á¼»ú
+oppose vt.·´¶Ô;·´¿¹
+opposite a.¶ÔÃæµÄ n.¶ÔÁ¢Îï
+optical a.ÑÛµÄ;¹âÑ§µÄ
+optimistic a.ÀÖ¹ÛµÄ;ÀÖ¹ÛÖ÷ÒåµÄ
+optional a.¿ÉÒÔÈÎÒâÑ¡ÔñµÄ.
+orbit n.ÔËĞĞ¹ìµÀ vt.»·ÈÆ
+orchestra n.¹ÜÏÒÀÖ¶Ó
+ordinary a.Æ½³£µÄ;Æ½·²µÄ
+ore n.¿ó,¿óÊ¯,¿óÉ°
+organ n.Æ÷¹Ù;»ú¹¹;¹Ü·çÇÙ
+organic a.ÓĞ»úÌåµÄ;Æ÷¹ÙµÄ
+organism n.ÉúÎïÌå;ÓĞ»úÌå
+otherwise ad.ÁíÍâ;Òª²»È»
+ought v.aux.Ó¦µ±,Ó¦¸Ã
+ounce n.°»Ë¾,Ó¢Á½
+outcome n.½á¹û,ºó¹û,³É¹û
+outer a.Íâ²¿µÄ,ÍâÃæµÄ
+outlet n.³ö¿Ú,³öÂ·;ÅÅÇ²
+outline n.ÂÖÀª;ÂÔÍ¼;´ó¸Ù
+outlook n.¹Ûµã,¿´·¨;Õ¹Íû
+outset n.¿ªÊ¼,¿ª¶Ë
+outside n.Íâ²¿;Íâ±ía.Íâ²¿µÄ
+outstanding a.Í»³öµÄ,½Ü³öµÄ
+outward a.ÍâÃæµÄ;ÏòÍâµÄ
+oven n.Â¯,Ôî;ºæÏä
+overall n.¹¤×°¿ã a.È«ÃæµÄ
+overcome vt.Õ½Ê¤,¿Ë·ş
+overlook vt.Ì÷Íû;¿´Â©;·ÅÈÎ
+overnight ad.Ò»Ò¹;Í»È»
+overtake vt.×·ÉÏ,¸ÏÉÏ;Ñ¹µ¹
+owe vt.Ç·;Ó¦°Ñ¡­¹é¹¦ÓÚ
+owl n.Ã¨Í·Ó¥,èÉ
+owner n.ÎïÖ÷,ËùÓĞÈË
+ownership n.ËùÓĞ(È¨),ËùÓĞÖÆ
+ox n.Å£;¹«Å£,ÑËÅ£
+oxygen n. ÑõÆø
+ooman n.¹ÅÂŞÂíÈË a.ÂŞÂíµÄ

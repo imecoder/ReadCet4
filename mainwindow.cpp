@@ -105,6 +105,7 @@ bool MainWindow::saveWords(const QStringList &slWord)
     }
 
     QTextStream out(&file);
+    out.setCodec("UTF-8");
     for (const QString& sWord : slWord) {
         out << sWord << endl;
     }
